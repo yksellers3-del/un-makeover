@@ -2786,7 +2786,7 @@ function Footer() {
               textDecoration: "none",
             }}
           >
-            Built with love using caffeine.ai
+          
           </a>
         </div>
       </div>
